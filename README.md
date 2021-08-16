@@ -1,7 +1,8 @@
 ### Hi there👋 ###
 __
-#### Desenvolvedor web fullstack 💻   
-Empenhado em criar soluções com rigor e aficiência por meio de Software.
+#### Desenvolvedor web fullstack 💻
+> Interessado por tecnologia e partilha de conhecimento.  
+> Empenhado em criar soluções com rigor e aficiência por meio de Software.
 <div> 
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
