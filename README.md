@@ -1,14 +1,16 @@
 ### Hi there👋 ###
 __
-#### Desenvolvedor web fullstack 💻
-> Interessado por tecnologia e partilha de conhecimento.  
-> Empenhado em criar soluções com rigor e aficiência por meio de Software.
+#### Desenvolvedor web fullstack 💻🦾🤓
+* Interessado por tecnologia e partilha de conhecimento 💾
+* Empenhado em criar soluções com rigor e aficiência por meio de Software 🖲⚒
 <div> 
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>     
 <!--
 buscando assim o constante aprimoramento de habilidades sociais (soft skills) e técnica.
