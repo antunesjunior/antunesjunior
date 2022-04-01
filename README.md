@@ -1,6 +1,6 @@
 ### Hi there👋 ###
 __
-### Desenvolvedor web 💻🦾🤓
+### Desenvolvedor Backend 💻🦾🤓
 * Interessado por tecnologia e partilha de conhecimento 💾
 * Empenhado em criar soluções com rigor e aficiência por meio de Tecnologia 🖲⚒
 <div> 
